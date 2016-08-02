@@ -25,9 +25,8 @@ Below you will see examples of my work created using Stata, R, and Gephi.
 
 I wrote a script in R that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data:
 
-[//]: This figure was creating using CartoDB, here is the link: http://cdb.io/1yVDOcv
 
-![(figure created by authors)](Fin3.png)
+![(figure created by author)](fin3.png)
 
 
 
