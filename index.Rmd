@@ -1,5 +1,5 @@
 ---
-title: '**My Porfolio**: An Application for an Internship at 538'
+title: '**My Porfolio**'
 author: "Kyle J. Ott"
 date: "2 August 2016"
 output:
