@@ -12,7 +12,7 @@ output:
 ```{r, include=FALSE}
 pkgs <- c('httr', 'dplyr', 'XML', 'ggplot2', 'stringr', 'car', 'devtools', 'rsdmx', 'stargazer', 'knitr', 'CausalImpact', 'tidyr', 'reshape2', 'sandwich', 'lmtest', 'plm')
 
-#setwd("/Users/Kyle/Dropbox/da_future/538/")
+setwd("/Users/Kyle/Dropbox/da_future/538/")
 ```
 
 \pagebreak
