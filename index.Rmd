@@ -24,9 +24,13 @@ Below you will see examples of my work created using Stata, R, and Gephi.
 
 #Top Income Earners in Finland
 
-I wrote a script in R that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data:
+I wrote a [script in R ](https://github.com/kylejott/Final_Project/blob/master/data_scraping.R) that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data:
 
 ![Raw data of 5 years of logged income data from top Finnish earners plotted against the average tax rate paid in a given year.](fin3.png)
+
+![Simple bin plot showing the observation counts for average tax rate paid across the years available for the data.](fin6.png)
+
+![Plot income earnes by decile and year. Clear evidence that there was indeed a tax reform in 2011.](fin8.png)
 
 
 
