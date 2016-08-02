@@ -24,7 +24,7 @@ Below you will see examples of my work created using Stata, R, and Gephi.
 
 # Social Network Analysis Centered on New York Primary
 
-Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions of tweets during the days leading up to the New York Primary. I then conducted a network analysis using Gephi and also created simple word clouds of the top hashtags for each campaign. Unfortunately due to file size limitations, the Gephi network graphs are not presented in their original detail and pdf format.
+Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions of tweets during the days leading up to the New York Primary. I then conducted a network analysis using Gephi and also created simple word clouds of the top hashtags for each campaign. Due to file size limitations, the Gephi network graphs are not presented in their original detail and pdf format.
 
 ![Top 47 Hashtags for Cruz campaign supporters (ignoring top 3).](newmedia5.png)
 
@@ -38,11 +38,11 @@ Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions
 
 I wrote a [script in R ](https://github.com/kylejott/Final_Project/blob/master/data_scraping.R) that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, including their name, gross earnings, and average tax rate. I then visually analyzed the data below and wrote an academic paper with a co-author found [here](https://github.com/kylejott/Final_Project/blob/master/final_paper.pdf).
 
-![Raw data of 5 years of logged income data from top Finnish earners plotted against the average tax rate paid in a given year.](fin3.png)
+![5 years of data: logged incomes of top Finnish earners plotted against the average tax rate paid in a given year.](fin3.png)
 
 ![Simple bin plot showing the observation counts for average tax rate paid across the years available for the data.](fin6.png)
 
-![Plot income earnes by decile and year. Clear evidence that there was indeed a tax reform in 2011 for the top tax bracket.](fin8.png)
+![Plot income earners by decile and year. Clear evidence that there was indeed a tax reform in 2011 for the top tax bracket.](fin8.png)
 
 #Inheritance Taxation Graphics
 
