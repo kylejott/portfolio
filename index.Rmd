@@ -22,6 +22,15 @@ setwd("/Users/Kyle/Dropbox/da_future/538/")
 
 Below you will see examples of my work created using Stata, R, and Gephi.
 
+# Social Network Analysis Centered on New York Primary
+
+Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions of tweets during the days leading up to the New York Primary. I then conducted a network analysis using Gephi and also created simple word clouds of the top 50 hashtags for each campaign.
+
+![Top 50 Hashtags for Cruz campaign supporters.](newmedia5.png)
+
+![Top 50 Hashtags for Sanders campaign supporters.](newmedia6.png)
+
+
 #Top Income Earners in Finland
 
 I wrote a [script in R ](https://github.com/kylejott/Final_Project/blob/master/data_scraping.R) that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data below and wrote an academic paper with a co-author found [here](https://github.com/kylejott/Final_Project/blob/master/final_paper.pdf).
