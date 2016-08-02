@@ -27,7 +27,7 @@ I wrote a script in R that scraped data from Finland's most influential business
 
 [//]: This figure was creating using CartoDB, here is the link: http://cdb.io/1yVDOcv
 
-![(figure created by authors)](Fin1.pdf)
+![(figure created by authors)](Fin3.png)
 
 
 
