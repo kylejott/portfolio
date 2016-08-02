@@ -5,6 +5,7 @@ date: "2 August 2016"
 output:
   html_document:
     toc: yes
+    fig_caption: true
   pdf_document:
     number_sections: yes
     toc: yes
@@ -25,8 +26,7 @@ Below you will see examples of my work created using Stata, R, and Gephi.
 
 I wrote a script in R that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data:
 
-
-![(figure created by author)](fin3.png)
+![Raw data of 5 years of logged income data from top Finnish earners plotted against the average tax rate paid in a given year.](fin3.png)
 
 
 
