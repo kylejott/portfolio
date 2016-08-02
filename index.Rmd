@@ -1,0 +1,36 @@
+---
+title: '**My Porfolio**: An Application for an Internship at 538'
+author: "Kyle J. Ott"
+date: "2 August 2016"
+output:
+  html_document:
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+---
+```{r, include=FALSE}
+pkgs <- c('httr', 'dplyr', 'XML', 'ggplot2', 'stringr', 'car', 'devtools', 'rsdmx', 'stargazer', 'knitr', 'CausalImpact', 'tidyr', 'reshape2', 'sandwich', 'lmtest', 'plm')
+
+setwd("/Users/Kyle/Dropbox/da_future/538/")
+```
+
+\pagebreak
+
+#Introduction
+
+Below you will see examples of my work created using Stata, R, and Gephi.
+
+#Top Income Earners in Finland
+
+I wrote a script in R that scraped data from Finland's most influential business newspaper. Since 2009, they have published Finland's top 15,000 income earners, inlcuding their name, gross earnings, and average tax rate. I then visually analyzed the data:
+
+[//]: This figure was creating using CartoDB, here is the link: http://cdb.io/1yVDOcv
+
+![(figure created by authors)](Figures/Fin1.pdf)
+
+
+
+
+
+
