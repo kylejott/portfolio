@@ -24,15 +24,15 @@ Below you will see examples of my work created using Stata, R, and Gephi.
 
 # Social Network Analysis Centered on New York Primary
 
-Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions of tweets during the days leading up to the New York Primary. I then conducted a network analysis using Gephi and also created simple word clouds of the top hashtags for each campaign. Note that the Gephi files are incredible large and detailed, which is why I have chosen to upload them as PDFs.
+Looking at the two populist campaigns of Sanders and Cruz, I downloaded millions of tweets during the days leading up to the New York Primary. I then conducted a network analysis using Gephi and also created simple word clouds of the top hashtags for each campaign. Unfortunately due to file size limitations, the Gephi network graphs are not presented in their original detail and pdf format.
 
 ![Top 47 Hashtags for Cruz campaign supporters (ignoring top 3).](newmedia5.png)
 
 ![Top 47 Hashtags for Sanders campaign supporters (ignoring top 3).](newmedia6.png)
 
-![Cruz Twitter network looking at communication between from- to to-users. Each color represents a different community with node size labels based on relative magnitude of in-degree measurement. Some communities to highlight: the @tedcruz network is in purple, @realdonaldtrump in green, and @chucknellis (the user with the most retweeted tweet) in light pink](newmedia1.pdf)
+![Cruz Twitter network looking at communication between from- to to-users. Each color represents a different community with node size labels based on relative magnitude of in-degree measurement. Some communities to highlight: the @tedcruz network is in purple, @realdonaldtrump in green, and @chucknellis (the user with the most retweeted tweet) in light pink](newmedia1.png)
 
-![Sanders Twitter network looking at communication between from- to to-users. Each color represents a different community with node size labels based on relative magnitude of in-degree measurement. Some communities to highlight: the @berniesanders network is in purple, @hillaryclinton in blue, @bkforbernie in bright pink, and @susnsarandon in dark grey. Importantly, @jordanchariton's community is in green. Chariton had the most retweeted tweet, which contained detailed information how to vote with an emergency provisional ballot](newmedia2.pdf)
+![Sanders Twitter network looking at communication between from- to to-users. Each color represents a different community with node size labels based on relative magnitude of in-degree measurement. Some communities to highlight: the @berniesanders network is in purple, @hillaryclinton in blue, @bkforbernie in bright pink, and @susnsarandon in dark grey. Importantly, @jordanchariton's community is in green. Chariton had the most retweeted tweet, which contained detailed information how to vote with an emergency provisional ballot](newmedia2.png)
 
 #Top Income Earners in Finland
 
